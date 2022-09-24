@@ -58,10 +58,10 @@
       {
         "title": "Otters of North America",
         "startDate": "2022",
-        "description": "A very simple app I made in my first week of Learning to Code. I'm not proud of it. It will be replaced soon with better projects.",
+        "description": "A very simple app I made in my first week of Learning to Code. I'm not proud of it. It will be replaced soon with better projects. orking on my . I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
           "images/portfolio/Projects/Portfolio-3.png",
-          ""
+          "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com/MatthewGebhart",
         "technologies": [
@@ -82,37 +82,47 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "CodeFellows</>",
+        "title": "Student - Software Development",
+        "years": "6.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
+          "React",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "JavaScript",
+          "HTML",
+          "CSS"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Matt Gebhart Photography",
+        "title": "Photographer",
+        "years": "8.2007 - 10.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Weddings and Portraits"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Photography",
+          "Client management",
+          "Event Coordination",
+          "small business operations",
+          "Videography"
+        ]
+      },
+
+      {
+        "company": "Trinity Presbyterian Church",
+        "title": "Director of Outreach and Missions",
+        "years": "03.2017 - 03.2020",
+        "mainTech": [
+          "Teams/Leadership"
+        ],
+        "technologies": [
+          "Stuff",
+          "Here",
+          "Later"
         ]
       }
     ]
