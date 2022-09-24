@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Matthew Gebhart",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Creative-Collaborative-Coder" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/MatthewGebhart",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mattgebhart",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "headshot.jpg"
     },
     "skills": {
       "icons": [
