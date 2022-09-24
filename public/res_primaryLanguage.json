@@ -11,38 +11,39 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Flash.Me",
+        "startDate": "2022",
+        "description": "The most developed application I have ahd the opportunity to work with (so far...). As a group project I helped build this flashcard app to help students memorize key terms and concepts. With a simple animated UI, the application allows users to create and save collections of flash cards that are stored in local memory.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Projects/Portfolio-best.png",
+          "images/portfolio/Projects/Portfolio-4.png",
+          "images/portfolio/Projects/Portfolio-5.png"
         ],
-        "url": "",
+        "url": "https://code201classgroup4.github.io/Flash.Me",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Code 301 Final Project",
+        "startDate": "2022",
+        "description": "Ill let you know later....",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Projects/Otter2.jpeg",
+          "images/portfolio/Projects/Otter1.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/MatthewGebhart",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +56,14 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Otters of North America",
+        "startDate": "2022",
+        "description": "A very simple app I made in my first week of Learning to Code. I'm not proud of it. It will be replaced soon with better projects.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/Projects/Portfolio-3.png",
+          ""
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/MatthewGebhart",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
